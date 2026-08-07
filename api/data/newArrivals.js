@@ -238,7 +238,7 @@
     "brand": "NEW BALANCE",
     "title": "1954R Black/Black",
     "price": 192.00,
-    "image": "/img/newarrival/27.jpg",
+    "image": "/img/newarrival/newarrival27.jpg",
     "hoverImage": "/img/newarrival/newarrival27hover.jpg",
     "sizes": ["8US", "8.5US", "9US", "9.5US"]
     },
@@ -247,7 +247,7 @@
     "brand": "NEW BALANCE",
     "title": "MiUSA 993 Core Black/White",
     "price": 203.00,
-    "image": "/img/newarrival/28.jpg",
+    "image": "/img/newarrival/newarrival28.jpg",
     "hoverImage": "/img/newarrival/newarrival28hover.jpg",
     "sizes": ["8US", "8.5US", "9US", "9.5US"]
     },
@@ -256,7 +256,7 @@
     "brand": "NEW BALANCE",
     "title": "MiUSA 993 Core Black/White",
     "price": 203.00,
-    "image": "/img/newarrival/29.jpg",
+    "image": "/img/newarrival/newarrival29.jpg",
     "hoverImage": "/img/newarrival/newarrival29hover.jpg",
     "sizes": ["8US", "8.5US", "9US", "9.5US"]
     },
@@ -265,7 +265,7 @@
     "brand": "NEW BALANCE",
     "title": "MiUSA 993 Core Black/Black",
     "price": 203.00,
-    "image": "/img/newarrival/30.jpg",
+    "image": "/img/newarrival/newarrival30.jpg",
     "hoverImage": "/img/newarrival/newarrival30hover.jpg",
     "sizes": ["8US", "8.5US", "9US", "9.5US"]
     },
@@ -274,7 +274,7 @@
     "brand": "NEW BALANCE",
     "title": "Abzorb 1890 Grey/Brown",
     "price": 169.00,
-    "image": "/img/newarrival/31.jpg",
+    "image": "/img/newarrival/newarrival31.jpg",
     "hoverImage": "/img/newarrival/newarrival31hover.jpg",
     "sizes": ["8US", "8.5US", "9US", "9.5US"]
     },
