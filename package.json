@@ -1,5 +1,8 @@
 {
   "name": "haven-api",
   "version": "1.0.0",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "vercel": "^58.7.1"
+  }
 }
