@@ -16,7 +16,7 @@ export default function handler(req, res) {
 
   const { name } = req.query;
 
-  if (name === "newArrival") {
+  if (name === "newarrival") {
     return res.status(200).json(newArrivals);
   }
 
