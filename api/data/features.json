@@ -1,0 +1,212 @@
+[
+    {
+    "id": 1,
+    "category" : "EDITORIAL",
+    "title": "HAVEN Fall 2026: Nature & Form",
+    "about" : "Captured across West Vancouver and Lynn Canyon, our Fall 2026 campaign explores the relationship between design, landscape, and everyday life." ,
+    "image": "/img/features/features1.jpg"
+    },
+    {
+    "id": 2,
+    "category" : "EDITORIAL",
+    "title": "HAVEN Editorial for Levi’s® Vintage Clothing",
+    "about" : "Ideas Shaped Through Time with Jamie Wolfond" ,
+    "image": "/img/features/features2.jpg"
+    },
+    {
+    "id": 3,
+    "category" : "EDITORIAL",
+    "title": "HAVEN Editorial for On x PAF SS26",
+    "about" : "Into the Valley" ,
+    "image": "/img/features/features3.jpg"
+    },
+    {
+    "id": 4,
+    "category" : "EDITORIAL",
+    "title": "Summer 2026 Editorial by HAVEN",
+    "about" : "Long days under open skies",
+    "image": "/img/features/features4.jpg"
+    },
+    {
+    "id": 5,
+    "category" : "EDITORIAL",
+    "title": "HAVEN Summer 2026: Indian Arm",
+    "about" : "Everyone has a place that belongs to summer. For those of us in Vancouver, that place is Indian Arm, a glacial inlet stretching north from the edge of the city into dense coastal wilderness. " ,
+    "image": "/img/features/features5.jpg"
+    },
+    {
+    "id": 6,
+    "category" : "EDITORIAL",
+    "title": "Spring 2026 Editorial by HAVEN",
+    "about" : "Soft contrast in the quiet Spring light" ,
+    "image": "/img/features/features6.jpg"
+    },
+    {
+    "id": 7,
+    "category" : "FOCUS",
+    "title": "HAVEN Urban Layering Guide",
+    "about" : "Explore the Benefits of Effective Layering: The Four-Layer Clothing Strategy for Ultimate Comfort and Adaptability" ,
+    "image": "/img/features/features7.jpg"
+    },
+    {
+    "id": 8,
+    "category" : "FOCUS",
+    "title": "HAVEN GORE-TEX 3L Pinnacle Weather Protection",
+    "about" : "Introducing the Condor Jacket and the Chamber Parka, a testament to our commitment to providing you with versatile outerwear that doesn’t compromise on comfort or aesthetic. Whether you’re navigating city streets or embracing the great outdoors, these jackets are designed to be your go-to choice for every occasion. Discover innovative design and everyday wearability in our GORE-TEX 3-layer outerwear." ,
+    "image": "/img/features/features8.jpg"
+    },
+    {
+    "id": 9,
+    "category" : "FOCUS",
+    "title": "HAVEN Loro Piana Range",
+    "about" : "An Italian icon and one of the world’s most esteemed fabric mill’s Loro Piana draws on both time-honored traditions and state of the art technology to create their exquisite fabrics. Not your average tech fabric, Loro Piana Storm System® is one of our favorite technologies, combining wind and water protection with comfort, breathability and a timeless natural appearance." ,
+    "image": "/img/features/features9.jpg"
+    },
+    {
+    "id": 10,
+    "category" : "FOCUS",
+    "title": "HAVEN Suvin Cotton Range",
+    "about" : "When we began development on our ‘Prime’ range of year-round, staple sweaters and t-shirts, our first goal was finding a fabric that was ultra-soft yet structural and luxurious yet durable enough for daily wear. After sampling various cottons and blends from around the world one stood out above the rest; a rare breed of cotton from India known as Suvin. " ,
+    "image": "/img/features/features10.jpg"
+    },
+    {
+    "id": 11,
+    "category" : "FOCUS",
+    "title": "HAVEN Duca Visconti Corduroy Range",
+    "about" : "An iconic fabric that has withstood the test of time thanks to its comfort, durability and timeless appearance, corduroy has a rich history and has been favoured by all strata of society from factory workers and soldiers to artists, musicians and nobility. What makes corduroy unique is its ribbed, pile weave which creates a three-dimensional surface, imbuing the fabric with an ultra-soft handfeel and subtle luxurious sheen akin to velvet." ,
+    "image": "/img/features/features11.jpg"
+    },
+    {
+    "id": 12,
+    "category" : "FOCUS",
+    "title": "HAVEN SS22 Schoeller® Dryskin Range",
+    "about" : "This season we redeploy one of our favorite and most versatile fabrics — Schoeller® Dryskin, applying it to a range of outdoor inspired garments and accessories. Manufactured in Switzerland, Dryskin is a highly-functional fabric with a unique and luxurious appearance and feel." ,
+    "image": "/img/features/features12.jpg"
+    },
+    {
+    "id": 13,
+    "category" : "DIALOGUE",
+    "title": "Alex Tedlie-Stursberg: Coastal FormalN",
+    "about" : "From the shorelines of the Pacific Northwest to the edges of the city, Alex Tedlie-Stursberg brings a distinct material sensitivity to his sculptural practice. " ,
+    "image": "/img/features/features13.jpg"
+    },
+    {
+    "id": 14,
+    "category" : "DIALOGUE",
+    "title": "Crafting Timeless Design: A Dialogue with Caine Heintzman of A-N-D",
+    "about" : "We sat down with Caine to discuss his inspirations, creative process, and design philosophies. " ,
+    "image": "/img/features/features14.jpg"
+    },
+    {
+    "id": 15,
+    "category" : "DIALOGUE",
+    "title": "Behind the Craft: An Interview with Austin McMahon of MAPLE",
+    "about" : "Meet Austin McMahon, the creative mind behind MAPLE, a brand known for its unique and eclectic designs." ,
+    "image": "/img/features/features15.jpg"
+    },
+    {
+    "id": 16,
+    "category" : "DIALOGUE",
+    "title": "Drawing Inspiration from Traditional Cultures and Design with Jeremy Joo",
+    "about" : "We sat down with Toronto-based designer Jeremy Joo in his workshop to discuss design philosophy and debut the latest pieces from our collection. " ,
+    "image": "/img/features/features16.jpg"
+    },
+    {
+    "id": 17,
+    "category" : "DIALOGUE",
+    "title": "Drawing Inspiration from Traditional Cultures and Design with Jeremy Joo",
+    "about" : "We sat down with Toronto-based designer Jeremy Joo in his workshop to discuss design philosophy and debut the latest pieces from our collection. " ,
+    "image": "/img/features/features17.jpg"
+    },
+    {
+    "id": 18,
+    "category" : "LOOKBOOK",
+    "title": "HAVEN Fall/Winter 2026 Lookbook",
+    "about" : "Fall/Winter 2026 continues our exploration of everyday utility through a commitment to regional craftsmanship and material innovation." ,
+    "image": "/img/features/features18.jpg"
+    },
+    {
+    "id": 19,
+    "category" : "LOOKBOOK",
+    "title": "HAVEN Spring/Summer 2026 Lookbook",
+    "about" : "Modular wardrobe for warmer months" ,
+    "image": "/img/features/features19.jpg"
+    },
+    {
+    "id": 20,
+    "category" : "JOURNAL",
+    "title": "Exploring Materials & Craft",
+    "about" : "Continual research in Japan" ,
+    "image": "/img/features/features20.jpg"
+    },
+    {
+    "id": 21,
+    "category" : "JOURNAL",
+    "title": "Paris SS27",
+    "about" : "Inside our Spring/Summer 2027 showroom and a look behind the scenes at the people, places and partner that shaped our week." ,
+    "image": "/img/features/features21.jpg"
+    },
+    {
+    "id": 22,
+    "category" : "JOURNAL",
+    "title": "Jeremy Koreski: ANOMALOUS",
+    "about" : "To coincide with a new exhibition at HAVEN Vancouver, featuring a body of infrared work created specifically for the show, we spent time with Koreski in the places that continue to inform his perspective" ,
+    "image": "/img/features/features22.jpg"
+    },
+    {
+    "id": 23,
+    "category" : "JOURNAL",
+    "title": "HAVEN / Nanga 2025 Tokyo Field Tester",
+    "about" : "A study of craft through Japan’s creative community" ,
+    "image": "/img/features/features23.jpg"
+    },
+    {
+    "id": 24,
+    "category" : "JOURNAL",
+    "title": "HAVEN / HOKA 2025 LA Field Tester",
+    "about" : "To coincide with the launch of the HAVEN / HOKA Stinson EVO GTX, we connected with members of LA’s creative community. These are individuals who bring a distinct perspective to their craft, shaping culture through thoughtful work that moves beyond category or convention. Their considered approach aligns with our own, shaped by intention and long-term perspective." ,
+    "image": "/img/features/features24.jpg"
+    },
+    {
+    "id": 25,
+    "category" : "JOURNAL",
+    "title": "HAVEN 2025 Paris Field Tester",
+    "about" : "To celebrate our Summer 2025 collection, we connected with Paris creatives who bring a distinct perspective to their work; shaping culture beyond category or convention. " ,
+    "image": "/img/features/features25.jpg"
+    },
+    {
+    "id": 26,
+    "category" : "PROCESS",
+    "title": "HAVEN Horizon Bag Process",
+    "about" : "Introducing the HAVEN Horizon Bags. Handmade in Japan" ,
+    "image": "/img/features/features26.jpg"
+    },
+    {
+    "id": 27,
+    "category" : "PROCESS",
+    "title": "HAVEN Spring/Summer 2026 Process",
+    "about" : "Along the Coast" ,
+    "image": "/img/features/features27.jpg"
+    },
+    {
+    "id": 28,
+    "category" : "PROCESS",
+    "title": "HAVEN Exploration — Hand-Dyed GORE-TEX",
+    "about" : "A shared appreciation of craft and experimentation" ,
+    "image": "/img/features/features28.jpg"
+    },
+    {
+    "id": 29,
+    "category" : "PROCESS",
+    "title": "HAVEN Fall/Winter 2025 Process",
+    "about" : "How thoughtful design becomes lasting product." ,
+    "image": "/img/features/features29.jpg"
+    },
+    {
+    "id": 30,
+    "category" : "PROCESS",
+    "title": "HAVEN 2025 Catalyst Boot Process",
+    "about" : "Crafted in Italy, the HAVEN Catalyst Boot combines military-inspired design with luxurious Charles F. Stead suede, Vibram® outsole utility, and meticulous craftsmanship." ,
+    "image": "/img/features/features30.jpg"
+    }
+]
