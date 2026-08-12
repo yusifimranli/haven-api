@@ -21,7 +21,7 @@
     "price": 650.00,
     "image": "/img/haven/haven3.jpg",
     "hoverImage": "/img/haven/haven3hover.jpg",
-    "sizes": ["ONE SIZE"]
+    "sizes": ["01/S","02/M","03/L","04/XL"]
     },
     {
     "id": 4,
@@ -29,7 +29,7 @@
     "price": 650.00,
     "image": "/img/haven/haven4.jpg",
     "hoverImage": "/img/haven/haven4hover.jpg",
-    "sizes": ["ONE SIZE"]
+    "sizes": ["01/S","02/M","03/L","04/XL"]
     },
     {
     "id": 5,
@@ -37,7 +37,7 @@
     "price": 560.00,
     "image": "/img/haven/haven5.jpg",
     "hoverImage": "/img/haven/haven5hover.jpg",
-    "sizes": ["ONE SIZE"]
+    "sizes": ["01/S","02/M","03/L","04/XL"]
     },
     {
     "id": 6,
@@ -45,7 +45,7 @@
     "price": 560.00,
     "image": "/img/haven/haven6.jpg",
     "hoverImage": "/img/haven/haven6hover.jpg",
-    "sizes": ["ONE SIZE"]
+    "sizes": ["01/S","02/M","03/L","04/XL"]
     },
     {
     "id": 7,
@@ -53,7 +53,7 @@
     "price": 970.00,
     "image": "/img/haven/haven7.jpg",
     "hoverImage": "/img/haven/haven7hover.jpg",
-    "sizes": ["ONE SIZE"]
+    "sizes": ["01/S","02/M","03/L","04/XL"]
     },
     {
     "id": 8,
@@ -61,7 +61,7 @@
     "price": 300.00,
     "image": "/img/haven/haven8.jpg",
     "hoverImage": "/img/haven/haven8hover.jpg",
-    "sizes": ["ONE SIZE"]
+    "sizes": ["01/S","02/M","03/L","04/XL"]
     },
     {
     "id": 9,
@@ -69,7 +69,7 @@
     "price": 160.00,
     "image": "/img/haven/haven9.jpg",
     "hoverImage": "/img/haven/haven9hover.jpg",
-    "sizes": ["ONE SIZE"]
+    "sizes": ["01/S","02/M","03/L","04/XL"]
     },
     {
     "id": 10,
@@ -77,7 +77,7 @@
     "price": 160.00,
     "image": "/img/haven/haven10.jpg",
     "hoverImage": "/img/haven/haven10hover.jpg",
-    "sizes": ["ONE SIZE"]
+    "sizes": ["01/S","02/M","03/L","04/XL"]
     },
     {
     "id": 11,
@@ -85,7 +85,7 @@
     "price": 215.00,
     "image": "/img/haven/haven11.jpg",
     "hoverImage": "/img/haven/haven11hover.jpg",
-    "sizes": ["ONE SIZE"]
+    "sizes": ["01/S","02/M","03/L","04/XL"]
     },
     {
     "id": 12,
@@ -93,7 +93,7 @@
     "price": 215.00,
     "image": "/img/haven/haven12.jpg",
     "hoverImage": "/img/haven/haven12hover.jpg",
-    "sizes": ["ONE SIZE"]
+    "sizes": ["01/S","02/M","03/L","04/XL"]
     },
     {
     "id": 13,
@@ -101,7 +101,7 @@
     "price": 215.00,
     "image": "/img/haven/haven13.jpg",
     "hoverImage": "/img/haven/haven13hover.jpg",
-    "sizes": ["ONE SIZE"]
+    "sizes": ["01/S","02/M","03/L","04/XL"]
     },
     {
     "id": 14,
@@ -109,7 +109,7 @@
     "price": 880.00,
     "image": "/img/haven/haven14.jpg",
     "hoverImage": "/img/haven/haven14hover.jpg",
-    "sizes": ["ONE SIZE"]
+    "sizes": ["01/S","02/M","03/L","04/XL"]
     },
     {
     "id":15,
@@ -117,7 +117,7 @@
     "price": 880.00,
     "image": "/img/haven/haven15.jpg",
     "hoverImage": "/img/haven/haven15hover.jpg",
-    "sizes": ["ONE SIZE"]
+    "sizes": ["01/S","02/M","03/L","04/XL"]
     },
     {
     "id": 16,
@@ -125,7 +125,7 @@
     "price": 680.00,
     "image": "/img/haven/haven16.jpg",
     "hoverImage": "/img/haven/haven16hover.jpg",
-    "sizes": ["ONE SIZE"]
+    "sizes": ["01/S","02/M","03/L","04/XL"]
     },
     {
     "id": 17,
@@ -133,7 +133,7 @@
     "price": 680.00,
     "image": "/img/haven/haven17.jpg",
     "hoverImage": "/img/haven/haven17hover.jpg",
-    "sizes": ["ONE SIZE"]
+    "sizes": ["01/S","02/M","03/L","04/XL"]
     },
     {
     "id": 18,
@@ -141,7 +141,7 @@
     "price": 1700.00,
     "image": "/img/haven/haven18.jpg",
     "hoverImage": "/img/haven/haven18hover.jpg",
-    "sizes": ["ONE SIZE"]
+    "sizes": ["01/S","02/M","03/L","04/XL"]
     },
     {
     "id": 19,
@@ -149,7 +149,7 @@
     "price": 1130.00,
     "image": "/img/haven/haven19.jpg",
     "hoverImage": "/img/haven/haven19hover.jpg",
-    "sizes": ["ONE SIZE"]
+    "sizes": ["01/S","02/M","03/L","04/XL"]
     },
     {
     "id": 20,
@@ -157,7 +157,7 @@
     "price": 1130.00,
     "image": "/img/haven/haven20.jpg",
     "hoverImage": "/img/haven/haven20hover.jpg",
-    "sizes": ["ONE SIZE"]
+    "sizes": ["01/S","02/M","03/L","04/XL"]
     },
     {
     "id": 21,
@@ -165,7 +165,7 @@
     "price": 480.00,
     "image": "/img/haven/haven21.jpg",
     "hoverImage": "/img/haven/haven21hover.jpg",
-    "sizes": ["ONE SIZE"]
+    "sizes": ["01/S","02/M","03/L","04/XL"]
     },
     {
     "id": 22,
@@ -173,7 +173,7 @@
     "price": 480.00,
     "image": "/img/haven/haven22.jpg",
     "hoverImage": "/img/haven/haven22hover.jpg",
-    "sizes": ["ONE SIZE"]
+    "sizes": ["01/S","02/M","03/L","04/XL"]
     },
     {
     "id": 23,
@@ -181,7 +181,7 @@
     "price": 520.00,
     "image": "/img/haven/haven23.jpg",
     "hoverImage": "/img/haven/haven23hover.jpg",
-    "sizes": ["ONE SIZE"]
+    "sizes": ["01/S","02/M","03/L","04/XL"]
     },
     {
     "id": 24,
@@ -189,7 +189,7 @@
     "price": 480.00,
     "image": "/img/haven/haven24.jpg",
     "hoverImage": "/img/haven/haven24hover.jpg",
-    "sizes": ["ONE SIZE"]
+    "sizes": ["01/S","02/M","03/L","04/XL"]
     },
     {
     "id": 25,
@@ -197,7 +197,7 @@
     "price": 265.00,
     "image": "/img/haven/haven25.jpg",
     "hoverImage": "/img/haven/haven25hover.jpg",
-    "sizes": ["ONE SIZE"]
+    "sizes": ["01/S","02/M","03/L","04/XL"]
     },
     {
     "id": 26,
@@ -205,7 +205,7 @@
     "price": 300.00,
     "image": "/img/haven/haven26.jpg",
     "hoverImage": "/img/haven/haven26hover.jpg",
-    "sizes": ["ONE SIZE"]
+    "sizes": ["01/S","02/M","03/L","04/XL"]
     },
     {
     "id": 27,
@@ -213,7 +213,7 @@
     "price": 300.00,
     "image": "/img/haven/haven27.jpg",
     "hoverImage": "/img/haven/haven27hover.jpg",
-    "sizes": ["ONE SIZE"]
+    "sizes": ["01/S","02/M","03/L","04/XL"]
     },
     {
     "id": 28,
@@ -221,7 +221,7 @@
     "price": 245.00,
     "image": "/img/haven/haven28.jpg",
     "hoverImage": "/img/haven/haven28hover.jpg",
-    "sizes": ["ONE SIZE"]
+    "sizes": ["01/S","02/M","03/L","04/XL"]
     },
     {
     "id": 29,
@@ -229,7 +229,7 @@
     "price": 220.00,
     "image": "/img/haven/haven29.jpg",
     "hoverImage": "/img/haven/haven29hover.jpg",
-    "sizes": ["ONE SIZE"]
+    "sizes": ["01/S","02/M","03/L","04/XL"]
     },
     {
     "id": 30,
@@ -237,7 +237,7 @@
     "price": 340.00,
     "image": "/img/haven/haven30.jpg",
     "hoverImage": "/img/haven/haven30hover.jpg",
-    "sizes": ["ONE SIZE"]
+    "sizes": ["01/S","02/M","03/L","04/XL"]
     },
     {
     "id": 31,
@@ -245,7 +245,7 @@
     "price": 600.00,
     "image": "/img/haven/haven31.jpg",
     "hoverImage": "/img/haven/haven31hover.jpg",
-    "sizes": ["ONE SIZE"]
+    "sizes": ["01/S","02/M","03/L","04/XL"]
     },
     
     {
@@ -254,7 +254,7 @@
     "price": 600.00,
     "image": "/img/haven/haven32.jpg",
     "hoverImage": "/img/haven/haven32hover.jpg",
-    "sizes": ["ONE SIZE"]
+    "sizes": ["01/S","02/M","03/L","04/XL"]
     },
     {
     "id": 33,
@@ -262,7 +262,7 @@
     "price": 530.00,
     "image": "/img/haven/haven33.jpg",
     "hoverImage": "/img/haven/haven33hover.jpg",
-    "sizes": ["ONE SIZE"]
+    "sizes": ["01/S","02/M","03/L","04/XL"]
     },
     {
     "id": 34,
@@ -270,7 +270,7 @@
     "price": 530.00,
     "image": "/img/haven/haven34.jpg",
     "hoverImage": "/img/haven/haven34hover.jpg",
-    "sizes": ["ONE SIZE"]
+    "sizes": ["01/S","02/M","03/L","04/XL"]
     },
     {
     "id": 35,
@@ -278,7 +278,7 @@
     "price": 230.00,
     "image": "/img/haven/haven35.jpg",
     "hoverImage": "/img/haven/haven35hover.jpg",
-    "sizes": ["ONE SIZE"]
+    "sizes": ["01/S","02/M","03/L","04/XL"]
     },
     {
     "id": 36,
@@ -286,7 +286,7 @@
     "price": 340.00,
     "image": "/img/haven/haven36.jpg",
     "hoverImage": "/img/haven/haven36hover.jpg",
-    "sizes": ["ONE SIZE"]
+    "sizes": ["01/S","02/M","03/L","04/XL"]
     },
     {
     "id": 37,
@@ -294,7 +294,7 @@
     "price": 200.00,
     "image": "/img/haven/haven37.jpg",
     "hoverImage": "/img/haven/haven37hover.jpg",
-    "sizes": ["ONE SIZE"]
+    "sizes": ["01/S","02/M","03/L","04/XL"]
     },
     {
     "id": 38,
@@ -302,7 +302,7 @@
     "price": 200.00,
     "image": "/img/haven/haven38.jpg",
     "hoverImage": "/img/haven/haven38hover.jpg",
-    "sizes": ["ONE SIZE"]
+    "sizes": ["01/S","02/M","03/L","04/XL"]
     },
     {
     "id": 39,
@@ -310,7 +310,7 @@
     "price": 200.00,
     "image": "/img/haven/haven39.jpg",
     "hoverImage": "/img/haven/haven39hover.jpg",
-    "sizes": ["ONE SIZE"]
+    "sizes": ["01/S","02/M","03/L","04/XL"]
     },
     {
     "id": 40,
@@ -318,7 +318,7 @@
     "price": 220.00,
     "image": "/img/haven/haven40.jpg",
     "hoverImage": "/img/haven/haven40hover.jpg",
-    "sizes": ["ONE SIZE"]
+    "sizes": ["01/S","02/M","03/L","04/XL"]
     },
     {
     "id": 41,
@@ -326,7 +326,7 @@
     "price": 220.00,
     "image": "/img/haven/haven41.jpg",
     "hoverImage": "/img/haven/haven41hover.jpg",
-    "sizes": ["ONE SIZE"]
+    "sizes": ["01/S","02/M","03/L","04/XL"]
     },
     {
     "id": 42,
@@ -334,7 +334,7 @@
     "price": 220.00,
     "image": "/img/haven/haven42.jpg",
     "hoverImage": "/img/haven/haven42hover.jpg",
-    "sizes": ["ONE SIZE"]
+    "sizes": ["01/S","02/M","03/L","04/XL"]
     },
     {
     "id": 43,
@@ -342,7 +342,7 @@
     "price": 120.00,
     "image": "/img/haven/haven43.jpg",
     "hoverImage": "/img/haven/haven43hover.jpg",
-    "sizes": ["ONE SIZE"]
+    "sizes": ["01/S","02/M","03/L","04/XL"]
     },
     {
     "id": 44,
@@ -350,7 +350,7 @@
     "price": 120.00,
     "image": "/img/haven/haven44.jpg",
     "hoverImage": "/img/haven/haven44hover.jpg",
-    "sizes": ["ONE SIZE"]
+    "sizes": ["01/S","02/M","03/L","04/XL"]
     },
     {
     "id": 45,
