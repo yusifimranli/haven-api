@@ -1,6 +1,7 @@
 [
     {
     "id": 1,
+    "brand": "HAVEN",
     "title": "Horizon Backpack - CORDURA® Ballistic Nylon Black",
     "price": 975.00,
     "image": "/img/haven/haven1.jpg",
@@ -10,6 +11,7 @@
     },
     {
     "id": 2,
+    "brand": "HAVEN",
     "title": "Horizon Shoulder Bag - CORDURA® Ballistic Nylon Black",
     "price": 650.00,
     "image": "/img/haven/haven2.jpg",
@@ -19,6 +21,7 @@
     },
     {
     "id": 3,
+    "brand": "HAVEN",
     "title": "Graft Coat - Suvin Cotton Denim Light Wash Black",
     "price": 650.00,
     "image": "/img/haven/haven3.jpg",
@@ -28,6 +31,7 @@
     },
     {
     "id": 4,
+    "brand": "HAVEN",
     "title": "Graft Coat - Suvin Cotton Denim Light Wash Indigo",
     "price": 650.00,
     "image": "/img/haven/haven4.jpg",
@@ -37,6 +41,7 @@
     },
     {
     "id": 5,
+    "brand": "HAVEN",
     "title": "Graft Coat - Suvin Cotton Denim Light Wash Black",
     "price": 560.00,
     "image": "/img/haven/haven5.jpg",
@@ -46,6 +51,7 @@
     },
     {
     "id": 6,
+    "brand": "HAVEN",
     "title": "Graft Pant - Suvin Cotton Denim Light Wash Indigo",
     "price": 560.00,
     "image": "/img/haven/haven6.jpg",
@@ -55,6 +61,7 @@
     },
     {
     "id": 7,
+    "brand": "HAVEN",
     "title": "Spectre Jacket - GORE-TEX® Nylon 3L Vapor/Stone",
     "price": 970.00,
     "image": "/img/haven/haven7.jpg",
@@ -64,6 +71,7 @@
     },
     {
     "id": 8,
+    "brand": "HAVEN",
     "title": "Meridian Shirt - Cotton Cashmere Grey",
     "price": 300.00,
     "image": "/img/haven/haven8.jpg",
@@ -73,6 +81,7 @@
     },
     {
     "id": 9,
+    "brand": "HAVEN",
     "title": "Stratus T-Shirt - Superfine Wool Jersey Silt",
     "price": 160.00,
     "image": "/img/haven/haven9.jpg",
@@ -82,6 +91,7 @@
     },
     {
     "id": 10,
+    "brand": "HAVEN",
     "title": "Stratus T-Shirt - Superfine Wool Jersey Black",
     "price": 160.00,
     "image": "/img/haven/haven10.jpg",
@@ -91,6 +101,7 @@
     },
     {
     "id": 11,
+    "brand": "HAVEN",
     "title": "Base Thermal Crewneck - Superfine Wool Waffle Off White",
     "price": 215.00,
     "image": "/img/haven/haven11.jpg",
@@ -100,6 +111,7 @@
     },
     {
     "id": 12,
+    "brand": "HAVEN",
     "title": "Base Thermal Crewneck - Superfine Wool Waffle Black",
     "price": 215.00,
     "image": "/img/haven/haven12.jpg",
@@ -109,6 +121,7 @@
     },
     {
     "id": 13,
+    "brand": "HAVEN",
     "title": "Base Thermal Crewneck - Superfine Wool Waffle Grey",
     "price": 215.00,
     "image": "/img/haven/haven13.jpg",
@@ -118,6 +131,7 @@
     },
     {
     "id": 14,
+    "brand": "HAVEN",
     "title": "Zephyr Jacket - Loro Piana Storm System 3L Nylon Wool Black",
     "price": 880.00,
     "image": "/img/haven/haven14.jpg",
@@ -127,6 +141,7 @@
     },
     {
     "id":15,
+    "brand": "HAVEN",
     "title": "Zephyr Jacket - Loro Piana Storm System 3L Nylon Taupe",
     "price": 880.00,
     "image": "/img/haven/haven15.jpg",
@@ -136,6 +151,7 @@
     },
     {
     "id": 16,
+    "brand": "HAVEN",
     "title": "Station Jacket - Loro Piana Storm System 3L Nylon Black",
     "price": 680.00,
     "image": "/img/haven/haven16.jpg",
@@ -145,6 +161,7 @@
     },
     {
     "id": 17,
+    "brand": "HAVEN",
     "title": "Station Jacket - Loro Piana Storm System 3L Nylon Taupe",
     "price": 680.00,
     "image": "/img/haven/haven17.jpg",
@@ -154,6 +171,7 @@
     },
     {
     "id": 18,
+    "brand": "HAVEN",
     "title": "Station Jacket - Leather / Windstopper® Black",
     "price": 1700.00,
     "image": "/img/haven/haven18.jpg",
@@ -163,6 +181,7 @@
     },
     {
     "id": 19,
+    "brand": "HAVEN",
     "title": "Bureau Coat - Loro Piana Storm System 3L Wool Nylon Black",
     "price": 1130.00,
     "image": "/img/haven/haven19.jpg",
@@ -172,6 +191,7 @@
     },
     {
     "id": 20,
+    "brand": "HAVEN",
     "title": "Bureau Coat - Loro Piana Storm System 3L Wool Nylon Taupe",
     "price": 1130.00,
     "image": "/img/haven/haven20.jpg",
@@ -181,6 +201,7 @@
     },
     {
     "id": 21,
+    "brand": "HAVEN",
     "title": "Helix Pant - Loro Piana Storm System 3L Wool Nylon Black",
     "price": 480.00,
     "image": "/img/haven/haven21.jpg",
@@ -190,6 +211,7 @@
     },
     {
     "id": 22,
+    "brand": "HAVEN",
     "title": "Helix Pant - Loro Piana Storm System 3L Wool Nylon Taupe",
     "price": 480.00,
     "image": "/img/haven/haven22.jpg",
@@ -199,6 +221,7 @@
     },
     {
     "id": 23,
+    "brand": "HAVEN",
     "title": "Station Pant - Suvin Cotton Denim Washed Black",
     "price": 520.00,
     "image": "/img/haven/haven23.jpg",
@@ -208,6 +231,7 @@
     },
     {
     "id": 24,
+    "brand": "HAVEN",
     "title": "Station Pant - Suvin Cotton Denim Washed Indigo",
     "price": 480.00,
     "image": "/img/haven/haven24.jpg",
@@ -217,6 +241,7 @@
     },
     {
     "id": 25,
+    "brand": "HAVEN",
     "title": "Guide Shirt - Polartec® Alpha® Fleece Black",
     "price": 265.00,
     "image": "/img/haven/haven25.jpg",
@@ -226,6 +251,7 @@
     },
     {
     "id": 26,
+    "brand": "HAVEN",
     "title": "Ascent Hoodie - Polartec® Alpha® Fleece Black",
     "price": 300.00,
     "image": "/img/haven/haven26.jpg",
@@ -235,6 +261,7 @@
     },
     {
     "id": 27,
+    "brand": "HAVEN",
     "title": "Ascent Hoodie - Polartec® Alpha® Fleece Umber",
     "price": 300.00,
     "image": "/img/haven/haven27.jpg",
@@ -244,6 +271,7 @@
     },
     {
     "id": 28,
+    "brand": "HAVEN",
     "title": "Ascent Zip Neck - Polartec® Alpha® Fleece Black",
     "price": 245.00,
     "image": "/img/haven/haven28.jpg",
@@ -253,6 +281,7 @@
     },
     {
     "id": 29,
+    "brand": "HAVEN",
     "title": "Ascent Crewneck - Polartec® Alpha® Fleece Black",
     "price": 220.00,
     "image": "/img/haven/haven29.jpg",
@@ -262,6 +291,7 @@
     },
     {
     "id": 30,
+    "brand": "HAVEN",
     "title": "Logan Insulated Vest - Windstopper® Midnight Black",
     "price": 340.00,
     "image": "/img/haven/haven30.jpg",
@@ -271,6 +301,7 @@
     },
     {
     "id": 31,
+    "brand": "HAVEN",
     "title": "Bureau Jacket - Loro Piana Storm System® 3L Wool Nylon Taupe",
     "price": 600.00,
     "image": "/img/haven/haven31.jpg",
@@ -281,6 +312,7 @@
     
     {
     "id": 32,
+    "brand": "HAVEN",
     "title": "Bureau Jacket - Loro Piana Storm System® 3L Wool Nylon Black",
     "price": 600.00,
     "image": "/img/haven/haven32.jpg",
@@ -290,6 +322,7 @@
     },
     {
     "id": 33,
+    "brand": "HAVEN",
     "title": "Station Jacket - Suvin Cotton Denim Washed Black",
     "price": 530.00,
     "image": "/img/haven/haven33.jpg",
@@ -299,6 +332,7 @@
     },
     {
     "id": 34,
+    "brand": "HAVEN",
     "title": "Station Jacket - Suvin Cotton Denim Washed Indigo",
     "price": 530.00,
     "image": "/img/haven/haven34.jpg",
@@ -308,6 +342,7 @@
     },
     {
     "id": 35,
+    "brand": "HAVEN",
     "title": "Excel Zip Neck - Urake Cotton Terry Black",
     "price": 230.00,
     "image": "/img/haven/haven35.jpg",
@@ -317,6 +352,7 @@
     },
     {
     "id": 36,
+    "brand": "HAVEN",
     "title": "Excel Zip Neck - Urake Cotton Terry Graphite",
     "price": 340.00,
     "image": "/img/haven/haven36.jpg",
@@ -326,6 +362,7 @@
     },
     {
     "id": 37,
+    "brand": "HAVEN",
     "title": "Excel Crewneck - Urake Cotton Terry Black",
     "price": 200.00,
     "image": "/img/haven/haven37.jpg",
@@ -335,6 +372,7 @@
     },
     {
     "id": 38,
+    "brand": "HAVEN",
     "title": "Excel Crewneck - Urake Cotton Terry Graphite",
     "price": 200.00,
     "image": "/img/haven/haven38.jpg",
@@ -344,6 +382,7 @@
     },
     {
     "id": 39,
+    "brand": "HAVEN",
     "title": "Excel Crewneck - Urake Cotton French Terry Earth",
     "price": 200.00,
     "image": "/img/haven/haven39.jpg",
@@ -353,6 +392,7 @@
     },
     {
     "id": 40,
+    "brand": "HAVEN",
     "title": "Excel Sweatpant - Urake Cotton Terry Earth",
     "price": 220.00,
     "image": "/img/haven/haven40.jpg",
@@ -362,6 +402,7 @@
     },
     {
     "id": 41,
+    "brand": "HAVEN",
     "title": "Excel Sweatpant - Urake Cotton Terry Black",
     "price": 220.00,
     "image": "/img/haven/haven41.jpg",
@@ -371,6 +412,7 @@
     },
     {
     "id": 42,
+    "brand": "HAVEN",
     "title": "Excel Sweatpant - Urake Cotton Terry Graphite",
     "price": 220.00,
     "image": "/img/haven/haven42.jpg",
@@ -380,6 +422,7 @@
     },
     {
     "id": 43,
+    "brand": "HAVEN",
     "title": "Prime T-Shirt S/S - Suvin Cotton Jersey Black",
     "price": 120.00,
     "image": "/img/haven/haven43.jpg",
@@ -389,6 +432,7 @@
     },
     {
     "id": 44,
+    "brand": "HAVEN",
     "title": "Prime T-Shirt S/S - Suvin Cotton Jersey White",
     "price": 120.00,
     "image": "/img/haven/haven44.jpg",
@@ -398,6 +442,7 @@
     },
     {
     "id": 45,
+    "brand": "HAVEN",
     "title": "Field Cap - Loro Piana Storm System 3L Wool Nylon Black",
     "price": 175.00,
     "image": "/img/haven/haven45.jpg",
@@ -407,6 +452,7 @@
     },
     {
     "id": 46,
+    "brand": "HAVEN",
     "title": "Field Cap - Loro Piana Storm System 3L Wool Nylon Taupe",
     "price": 175.00,
     "image": "/img/haven/haven46.jpg",
@@ -416,6 +462,7 @@
     },
     {
     "id": 47,
+    "brand": "HAVEN",
     "title": "Loom Socks - Wool Cashmere Black",
     "price": 45.00,
     "image": "/img/haven/haven47.jpg",
@@ -425,6 +472,7 @@
     },
     {
     "id": 48,
+    "brand": "HAVEN",
     "title": "Loom Socks - Wool Cashmere Charcoal",
     "price": 45.00,
     "image": "/img/haven/haven48.jpg",
