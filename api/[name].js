@@ -5,7 +5,7 @@ const require = createRequire(import.meta.url);
 const newArrivals = require("./data/newArrivals.json");
 const haven = require("./data/haven.json");
 const features = require("./data/features.json");
-const features = require("./data/news.json");
+const news = require("./data/news.json");
 
 export default function handler(req, res) {
   res.setHeader("Access-Control-Allow-Origin", "*");
