@@ -6,6 +6,8 @@
     "price": 975.00,
     "image": "/img/haven/haven1.jpg",
     "hoverImage": "/img/haven/haven1hover.jpg",
+    "leftImage":"/img/haven/haven01.jpg",
+    "rightImage":"/img/haven/haven001.jpg",
     "sizes": ["ONE SIZE"],
     "category": "Accessories"
     },
@@ -16,6 +18,8 @@
     "price": 650.00,
     "image": "/img/haven/haven2.jpg",
     "hoverImage": "/img/haven/haven2hover.jpg",
+    "leftImage":"/img/haven/haven02.jpg",
+    "rightImage":"/img/haven/haven002.jpg",
     "sizes": ["ONE SIZE"],
     "category": "Accessories"
     },
@@ -26,6 +30,8 @@
     "price": 650.00,
     "image": "/img/haven/haven3.jpg",
     "hoverImage": "/img/haven/haven3hover.jpg",
+    "leftImage":"/img/haven/haven03.jpg",
+    "rightImage":"/img/haven/haven003.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
     "category": "Outwear"
     },
@@ -36,16 +42,20 @@
     "price": 650.00,
     "image": "/img/haven/haven4.jpg",
     "hoverImage": "/img/haven/haven4hover.jpg",
-    "sizes": ["01/S","02/M","03/L","04/XL"],
+    "leftImage":"/img/haven/haven04.jpg",
+    "rightImage":"/img/haven/haven004.jpg",
+    "sizes": ["01/S","02/M","03/L","04/XL"      ],
     "category": "Outwear"
     },
     {
     "id": 5,
     "brand": "HAVEN",
-    "title": "Graft Coat - Suvin Cotton Denim Light Wash Black",
+    "title": "Graft Pant - Suvin Cotton Denim Light Wash Black",
     "price": 560.00,
     "image": "/img/haven/haven5.jpg",
     "hoverImage": "/img/haven/haven5hover.jpg",
+    "leftImage":"/img/haven/haven05.jpg",
+    "rightImage":"/img/haven/haven005.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
     "category": "Bottoms"
     },
@@ -56,6 +66,8 @@
     "price": 560.00,
     "image": "/img/haven/haven6.jpg",
     "hoverImage": "/img/haven/haven6hover.jpg",
+    "leftImage":"/img/haven/haven06.jpg",
+    "rightImage":"/img/haven/haven006.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
     "category": "Bottoms"
     },
@@ -66,6 +78,8 @@
     "price": 970.00,
     "image": "/img/haven/haven7.jpg",
     "hoverImage": "/img/haven/haven7hover.jpg",
+    "leftImage":"/img/haven/haven07.jpg",
+    "rightImage":"/img/haven/haven007.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
     "category": "Outwear"
     },
@@ -76,6 +90,8 @@
     "price": 300.00,
     "image": "/img/haven/haven8.jpg",
     "hoverImage": "/img/haven/haven8hover.jpg",
+    "leftImage":"/img/haven/haven08.jpg",
+    "rightImage":"/img/haven/haven008.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
     "category": "Shirts"
     },
@@ -86,6 +102,8 @@
     "price": 160.00,
     "image": "/img/haven/haven9.jpg",
     "hoverImage": "/img/haven/haven9hover.jpg",
+    "leftImage":"/img/haven/haven09.jpg",
+    "rightImage":"/img/haven/haven009.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
     "category" : "T-Shirts"
     },
@@ -96,6 +114,8 @@
     "price": 160.00,
     "image": "/img/haven/haven10.jpg",
     "hoverImage": "/img/haven/haven10hover.jpg",
+    "leftImage":"/img/haven/haven010.jpg",
+    "rightImage":"/img/haven/haven0010.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
     "category" : "T-Shirts"
     },
@@ -106,6 +126,8 @@
     "price": 215.00,
     "image": "/img/haven/haven11.jpg",
     "hoverImage": "/img/haven/haven11hover.jpg",
+    "leftImage":"/img/haven/haven011.jpg",
+    "rightImage":"/img/haven/haven0011.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
     "category" :"Fleece & Sweats"
     },
@@ -116,6 +138,8 @@
     "price": 215.00,
     "image": "/img/haven/haven12.jpg",
     "hoverImage": "/img/haven/haven12hover.jpg",
+    "leftImage":"/img/haven/haven012.jpg",
+    "rightImage":"/img/haven/haven0012.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
     "category" :"Fleece & Sweats"
     },
@@ -126,6 +150,8 @@
     "price": 215.00,
     "image": "/img/haven/haven13.jpg",
     "hoverImage": "/img/haven/haven13hover.jpg",
+    "leftImage":"/img/haven/haven013.jpg",
+    "rightImage":"/img/haven/haven0013.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
     "category" :"Fleece & Sweats"
     },
@@ -136,6 +162,8 @@
     "price": 880.00,
     "image": "/img/haven/haven14.jpg",
     "hoverImage": "/img/haven/haven14hover.jpg",
+    "leftImage":"/img/haven/haven014.jpg",
+    "rightImage":"/img/haven/haven0014.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
     "category": "Outwear"
     },
@@ -146,6 +174,8 @@
     "price": 880.00,
     "image": "/img/haven/haven15.jpg",
     "hoverImage": "/img/haven/haven15hover.jpg",
+    "leftImage":"/img/haven/haven015.jpg",
+    "rightImage":"/img/haven/haven0015.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
     "category": "Outwear"
     },
@@ -156,6 +186,8 @@
     "price": 680.00,
     "image": "/img/haven/haven16.jpg",
     "hoverImage": "/img/haven/haven16hover.jpg",
+    "leftImage":"/img/haven/haven016.jpg",
+    "rightImage":"/img/haven/haven0016.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
     "category": "Outwear"
     },
@@ -166,6 +198,8 @@
     "price": 680.00,
     "image": "/img/haven/haven17.jpg",
     "hoverImage": "/img/haven/haven17hover.jpg",
+    "leftImage":"/img/haven/haven017.jpg",
+    "rightImage":"/img/haven/haven0017.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
     "category": "Outwear"
     },
@@ -176,6 +210,8 @@
     "price": 1700.00,
     "image": "/img/haven/haven18.jpg",
     "hoverImage": "/img/haven/haven18hover.jpg",
+    "leftImage":"/img/haven/haven018.jpg",
+    "rightImage":"/img/haven/haven0018.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
     "category": "Outwear"
     },
@@ -186,6 +222,8 @@
     "price": 1130.00,
     "image": "/img/haven/haven19.jpg",
     "hoverImage": "/img/haven/haven19hover.jpg",
+    "leftImage":"/img/haven/haven019.jpg",
+    "rightImage":"/img/haven/haven0019.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
     "category": "Outwear"
     },
@@ -196,6 +234,8 @@
     "price": 1130.00,
     "image": "/img/haven/haven20.jpg",
     "hoverImage": "/img/haven/haven20hover.jpg",
+    "leftImage":"/img/haven/haven020.jpg",
+    "rightImage":"/img/haven/haven0020.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
     "category": "Outwear"
     },
@@ -206,6 +246,8 @@
     "price": 480.00,
     "image": "/img/haven/haven21.jpg",
     "hoverImage": "/img/haven/haven21hover.jpg",
+    "leftImage":"/img/haven/haven021.jpg",
+    "rightImage":"/img/haven/haven0021.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
     "category": "Bottoms"
     },
@@ -216,6 +258,8 @@
     "price": 480.00,
     "image": "/img/haven/haven22.jpg",
     "hoverImage": "/img/haven/haven22hover.jpg",
+    "leftImage":"/img/haven/haven022.jpg",
+    "rightImage":"/img/haven/haven0022.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
     "category": "Bottoms"
     },
@@ -226,6 +270,8 @@
     "price": 520.00,
     "image": "/img/haven/haven23.jpg",
     "hoverImage": "/img/haven/haven23hover.jpg",
+    "leftImage":"/img/haven/haven023.jpg",
+    "rightImage":"/img/haven/haven0023.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
     "category": "Bottoms"
     },
@@ -236,6 +282,8 @@
     "price": 480.00,
     "image": "/img/haven/haven24.jpg",
     "hoverImage": "/img/haven/haven24hover.jpg",
+    "leftImage":"/img/haven/haven024.jpg",
+    "rightImage":"/img/haven/haven0024.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
     "category": "Bottoms"
     },
@@ -246,6 +294,8 @@
     "price": 265.00,
     "image": "/img/haven/haven25.jpg",
     "hoverImage": "/img/haven/haven25hover.jpg",
+    "leftImage":"/img/haven/haven025.jpg",
+    "rightImage":"/img/haven/haven0025.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
     "category": "Shirts"
     },
@@ -256,6 +306,8 @@
     "price": 300.00,
     "image": "/img/haven/haven26.jpg",
     "hoverImage": "/img/haven/haven26hover.jpg",
+    "leftImage":"/img/haven/haven026.jpg",
+    "rightImage":"/img/haven/haven0026.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
     "category" :"Fleece & Sweats"
     },
@@ -266,6 +318,8 @@
     "price": 300.00,
     "image": "/img/haven/haven27.jpg",
     "hoverImage": "/img/haven/haven27hover.jpg",
+    "leftImage":"/img/haven/haven027.jpg",
+    "rightImage":"/img/haven/haven0027.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
     "category" :"Fleece & Sweats"
     },
@@ -276,6 +330,8 @@
     "price": 245.00,
     "image": "/img/haven/haven28.jpg",
     "hoverImage": "/img/haven/haven28hover.jpg",
+    "leftImage":"/img/haven/haven028.jpg",
+    "rightImage":"/img/haven/haven0028.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
     "category" :"Fleece & Sweats"
     },
@@ -286,6 +342,8 @@
     "price": 220.00,
     "image": "/img/haven/haven29.jpg",
     "hoverImage": "/img/haven/haven29hover.jpg",
+    "leftImage":"/img/haven/haven029.jpg",
+    "rightImage":"/img/haven/haven0029.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
     "category" :"Fleece & Sweats"
     },
@@ -296,6 +354,8 @@
     "price": 340.00,
     "image": "/img/haven/haven30.jpg",
     "hoverImage": "/img/haven/haven30hover.jpg",
+    "leftImage":"/img/haven/haven039.jpg",
+    "rightImage":"/img/haven/haven0030.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
     "category": "Outwear"
     },
@@ -306,6 +366,8 @@
     "price": 600.00,
     "image": "/img/haven/haven31.jpg",
     "hoverImage": "/img/haven/haven31hover.jpg",
+    "leftImage":"/img/haven/haven031.jpg",
+    "rightImage":"/img/haven/haven0031.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
     "category": "Outwear"
     },
@@ -317,6 +379,8 @@
     "price": 600.00,
     "image": "/img/haven/haven32.jpg",
     "hoverImage": "/img/haven/haven32hover.jpg",
+    "leftImage":"/img/haven/haven032.jpg",
+    "rightImage":"/img/haven/haven0032.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
     "category": "Outwear"
     },
@@ -327,6 +391,8 @@
     "price": 530.00,
     "image": "/img/haven/haven33.jpg",
     "hoverImage": "/img/haven/haven33hover.jpg",
+    "leftImage":"/img/haven/haven033.jpg",
+    "rightImage":"/img/haven/haven0033.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
     "category": "Outwear"
     },
@@ -337,6 +403,8 @@
     "price": 530.00,
     "image": "/img/haven/haven34.jpg",
     "hoverImage": "/img/haven/haven34hover.jpg",
+    "leftImage":"/img/haven/haven034.jpg",
+    "rightImage":"/img/haven/haven0034.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
     "category": "Outwear"
     },
@@ -348,6 +416,8 @@
     "image": "/img/haven/haven35.jpg",
     "hoverImage": "/img/haven/haven35hover.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
+    "leftImage":"/img/haven/haven035.jpg",
+    "rightImage":"/img/haven/haven0035.jpg",
     "category" :"Fleece & Sweats"
     },
     {
@@ -357,6 +427,8 @@
     "price": 340.00,
     "image": "/img/haven/haven36.jpg",
     "hoverImage": "/img/haven/haven36hover.jpg",
+    "leftImage":"/img/haven/haven036.jpg",
+    "rightImage":"/img/haven/haven0036.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
     "category" :"Fleece & Sweats"
     },
@@ -367,6 +439,8 @@
     "price": 200.00,
     "image": "/img/haven/haven37.jpg",
     "hoverImage": "/img/haven/haven37hover.jpg",
+    "leftImage":"/img/haven/haven037.jpg",
+    "rightImage":"/img/haven/haven0037.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
     "category" :"Fleece & Sweats"
     },
@@ -377,6 +451,8 @@
     "price": 200.00,
     "image": "/img/haven/haven38.jpg",
     "hoverImage": "/img/haven/haven38hover.jpg",
+    "leftImage":"/img/haven/haven038.jpg",
+    "rightImage":"/img/haven/haven0038.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
     "category" :"Fleece & Sweats"
     },
@@ -387,6 +463,8 @@
     "price": 200.00,
     "image": "/img/haven/haven39.jpg",
     "hoverImage": "/img/haven/haven39hover.jpg",
+    "leftImage":"/img/haven/haven039.jpg",
+    "rightImage":"/img/haven/haven0039.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
     "category" :"Fleece & Sweats"
     },
@@ -397,6 +475,8 @@
     "price": 220.00,
     "image": "/img/haven/haven40.jpg",
     "hoverImage": "/img/haven/haven40hover.jpg",
+    "leftImage":"/img/haven/haven040.jpg",
+    "rightImage":"/img/haven/haven0040.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
     "category" :"Fleece & Sweats"
     },
@@ -417,6 +497,8 @@
     "price": 220.00,
     "image": "/img/haven/haven42.jpg",
     "hoverImage": "/img/haven/haven42hover.jpg",
+    "leftImage":"/img/haven/haven042.jpg",
+    "rightImage":"/img/haven/haven0042.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
     "category" :"Fleece & Sweats"
     },
@@ -427,6 +509,8 @@
     "price": 120.00,
     "image": "/img/haven/haven43.jpg",
     "hoverImage": "/img/haven/haven43hover.jpg",
+    "leftImage":"/img/haven/haven043.jpg",
+    "rightImage":"/img/haven/haven0043.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
     "category" : "T-Shirts"
     },
@@ -437,6 +521,8 @@
     "price": 120.00,
     "image": "/img/haven/haven44.jpg",
     "hoverImage": "/img/haven/haven44hover.jpg",
+    "leftImage":"/img/haven/haven044.jpg",
+    "rightImage":"/img/haven/haven0044.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
     "category" : "T-Shirts"
     },
@@ -447,6 +533,8 @@
     "price": 175.00,
     "image": "/img/haven/haven45.jpg",
     "hoverImage": "/img/haven/haven45hover.jpg",
+    "leftImage":"/img/haven/haven045.jpg",
+    "rightImage":"/img/haven/haven0045.jpg",
     "sizes": ["ONE SIZE"],
     "category": "Accessories"
     },
@@ -457,6 +545,8 @@
     "price": 175.00,
     "image": "/img/haven/haven46.jpg",
     "hoverImage": "/img/haven/haven46hover.jpg",
+    "leftImage":"/img/haven/haven046.jpg",
+    "rightImage":"/img/haven/haven0046.jpg",
     "sizes": ["ONE SIZE"],
     "category": "Accessories"
     },
