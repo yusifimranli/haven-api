@@ -6,6 +6,8 @@
     "price": 239.00,
     "image": "/img/newarrival/newarrival1.jpg",
     "hoverImage": "/img/newarrival/newarrival1hover.jpg",
+    "leftImage":"/img/newarrival/newarrival01.jpg",
+    "rightImage":"/img/newarrival/newarrival001.jpg",
     "sizes": ["8US", "8.5US", "9US", "9.5US"]
     },
     {
@@ -15,6 +17,8 @@
     "price": 162.00,
     "image": "/img/newarrival/newarrival2.jpg",
     "hoverImage": "/img/newarrival/newarrival2hover.jpg",
+    "leftImage":"/img/newarrival/newarrival02.jpg",
+    "rightImage":"/img/newarrival/newarrival002.jpg",
     "sizes": ["8US", "8.5US", "9US", "9.5US"]
     },
     {
@@ -24,6 +28,8 @@
     "price": 162.00,
     "image": "/img/newarrival/newarrival3.jpg",
     "hoverImage": "/img/newarrival/newarrival3hover.jpg",
+    "leftImage":"/img/newarrival/newarrival03.jpg",
+    "rightImage":"/img/newarrival/newarrival003.jpg",
     "sizes": ["8US", "8.5US", "9US", "9.5US"]
     },
     {
@@ -33,6 +39,8 @@
     "price": 192.00,
     "image": "/img/newarrival/newarrival4.jpg",
     "hoverImage": "/img/newarrival/newarrival4hover.jpg",
+    "leftImage":"/img/newarrival/newarrival04.jpg",
+    "rightImage":"/img/newarrival/newarrival004.jpg",
     "sizes": ["8US", "8.5US", "9US", "9.5US"]
     },
     {
@@ -42,6 +50,8 @@
     "price": 177.00,
     "image": "/img/newarrival/newarrival5.jpg",
     "hoverImage": "/img/newarrival/newarrival5hover.jpg",
+    "leftImage":"/img/newarrival/newarrival05.jpg",
+    "rightImage":"/img/newarrival/newarrival005.jpg",
     "sizes": ["8US", "8.5US", "9US", "9.5US"]
     },
     {
@@ -51,6 +61,8 @@
     "price": 133.00,
     "image": "/img/newarrival/newarrival6.jpg",
     "hoverImage": "/img/newarrival/newarrival6hover.jpg",
+    "leftImage":"/img/newarrival/newarrival06.jpg",
+    "rightImage":"/img/newarrival/newarrival006.jpg",
     "sizes": ["8US", "8.5US", "9US", "9.5US"]
     },
     {
@@ -60,6 +72,8 @@
     "price": 192.00,
     "image": "/img/newarrival/newarrival7.jpg",
     "hoverImage": "/img/newarrival/newarrival7hover.jpg",
+    "leftImage":"/img/newarrival/newarrival07.jpg",
+    "rightImage":"/img/newarrival/newarrival007.jpg",
     "sizes": ["8US", "8.5US", "9US", "9.5US"]
     },
     {
@@ -78,6 +92,8 @@
     "price": 162.00,
     "image": "/img/newarrival/newarrival9.jpg",
     "hoverImage": "/img/newarrival/newarrival9hover.jpg",
+    "leftImage":"/img/newarrival/newarrival09.jpg",
+    "rightImage":"/img/newarrival/newarrival009.jpg",
     "sizes": ["8US", "8.5US", "9US", "9.5US"]
     },
     {
@@ -87,6 +103,8 @@
     "price": 147.00,
     "image": "/img/newarrival/newarrival10.jpg",
     "hoverImage": "/img/newarrival/newarrival10hover.jpg",
+    "leftImage":"/img/newarrival/newarrival010.jpg",
+    "rightImage":"/img/newarrival/newarrival0010.jpg",
     "sizes": ["ONE SIZE"]
     },
     {
@@ -96,6 +114,8 @@
     "price": 177.00,
     "image": "/img/newarrival/newarrival11.jpg",
     "hoverImage": "/img/newarrival/newarrival11hover.jpg",
+    "leftImage":"/img/newarrival/newarrival011.jpg",
+    "rightImage":"/img/newarrival/newarrival0011.jpg",
     "sizes": ["ONE SIZE"]
     },
     {
@@ -105,6 +125,7 @@
     "price": 37.00,
     "image": "/img/newarrival/newarrival12.jpg",
     "hoverImage": "/img/newarrival/newarrival12hover.jpg",
+    "leftImage":"/img/newarrival/newarrival012.jpg",
     "sizes": ["ONE SIZE"]
     },
     {
@@ -114,6 +135,7 @@
     "price": 67.00,
     "image": "/img/newarrival/newarrival13.jpg",
     "hoverImage": "/img/newarrival/newarrival13hover.jpg",
+    "leftImage":"/img/newarrival/newarrival013.jpg",
     "sizes": ["ONE SIZE"]
     },
     {
@@ -123,6 +145,8 @@
     "price": 967.00,
     "image": "/img/newarrival/newarrival14.jpg",
     "hoverImage": "/img/newarrival/newarrival14hover.jpg",
+    "leftImage":"/img/newarrival/newarrival014.jpg",
+    "rightImage":"/img/newarrival/newarrival0014.jpg",
     "sizes": ["2(46)","3(48)","4(50)","5(52)"]
     },
     {
@@ -132,6 +156,7 @@
     "price": 856.00,
     "image": "/img/newarrival/newarrival15.jpg",
     "hoverImage": "/img/newarrival/newarrival15hover.jpg",
+    "leftImage":"/img/newarrival/newarrival015.jpg",
     "sizes": ["2(46)","3(48)","4(50)","5(52)"]
     },
     {
@@ -141,6 +166,8 @@
     "price": 812.00,
     "image": "/img/newarrival/newarrival16.jpg",
     "hoverImage": "/img/newarrival/newarrival16hover.jpg",
+    "leftImage":"/img/newarrival/newarrival016.jpg",
+    "rightImage":"/img/newarrival/newarrival0016.jpg",
     "sizes": ["2(46)","3(48)","4(50)","5(52)"]
     },
     {
@@ -150,6 +177,8 @@
     "price": 438.00,
     "image": "/img/newarrival/newarrival17.jpg",
     "hoverImage": "/img/newarrival/newarrival17hover.jpg",
+    "leftImage":"/img/newarrival/newarrival017.jpg",
+    "rightImage":"/img/newarrival/newarrival0017.jpg",
     "sizes": ["2(46)","3(48)","4(50)","5(52)"]
     },
     {
@@ -159,6 +188,8 @@
     "price": 397.00,
     "image": "/img/newarrival/newarrival18.jpg",
     "hoverImage": "/img/newarrival/newarrival18hover.jpg",
+    "leftImage":"/img/newarrival/newarrival018.jpg",
+    "rightImage":"/img/newarrival/newarrival0018.jpg",
     "sizes": ["2(46)","3(48)","4(50)","5(52)"]
     },
     {
@@ -168,6 +199,8 @@
     "price": 463.00,
     "image": "/img/newarrival/newarrival19.jpg",
     "hoverImage": "/img/newarrival/newarrival19hover.jpg",
+    "leftImage":"/img/newarrival/newarrival019.jpg",
+    "rightImage":"/img/newarrival/newarrival0019.jpg",
     "sizes": ["2(46)","3(48)","4(50)","5(52)"]
     },
     {
@@ -177,6 +210,8 @@
     "price": 349.00,
     "image": "/img/newarrival/newarrival20.jpg",
     "hoverImage": "/img/newarrival/newarrival20hover.jpg",
+    "leftImage":"/img/newarrival/newarrival020.jpg",
+    "rightImage":"/img/newarrival/newarrival0020.jpg",
     "sizes": ["2(46)","3(48)","4(50)","5(52)"]
     },
     {
@@ -186,6 +221,8 @@
     "price": 353.00,
     "image": "/img/newarrival/newarrival21.jpg",
     "hoverImage": "/img/newarrival/newarrival21hover.jpg",
+    "leftImage":"/img/newarrival/newarrival020.jpg",
+    "rightImage":"/img/newarrival/newarrival0020.jpg",
     "sizes": ["2(46)","3(48)","4(50)","5(52)"]
     },
     {
@@ -195,6 +232,8 @@
     "price": 419.00,
     "image": "/img/newarrival/newarrival22.jpg",
     "hoverImage": "/img/newarrival/newarrival22hover.jpg",
+    "leftImage":"/img/newarrival/newarrival022.jpg",
+    "rightImage":"/img/newarrival/newarrival0022.jpg",
     "sizes": ["2(46)","3(48)","4(50)","5(52)"]
     },
     {
@@ -204,15 +243,18 @@
     "price": 375.00,
     "image": "/img/newarrival/newarrival23.jpg",
     "hoverImage": "/img/newarrival/newarrival23hover.jpg",
+    "leftImage":"/img/newarrival/newarrival023.jpg",
+    "rightImage":"/img/newarrival/newarrival0023.jpg",
     "sizes": ["2(46)","3(48)","4(50)","5(52)"]
     },
     {
     "id": 24,
     "brand": "TEATORA",
-    "title": "Open Collar Shirt S/S HL Black",
+    "title": "Teatora Cap Black",
     "price": 177.00,
     "image": "/img/newarrival/newarrival24.jpg",
     "hoverImage": "/img/newarrival/newarrival24hover.jpg",
+    "leftImage":"/img/newarrival/newarrival024.jpg",
     "sizes": ["ONE SIZE"]
     },
     {
@@ -222,6 +264,7 @@
     "price": 199.00,
     "image": "/img/newarrival/newarrival25.jpg",
     "hoverImage": "/img/newarrival/newarrival25hover.jpg",
+    "leftImage":"/img/newarrival/newarrival025.jpg",
     "sizes": ["ONE SIZE"]
     },
     {
@@ -231,6 +274,8 @@
     "price": 192.00,
     "image": "/img/newarrival/newarrival26.jpg",
     "hoverImage": "/img/newarrival/newarrival26hover.jpg",
+    "leftImage":"/img/newarrival/newarrival026.jpg",
+    "rightImage":"/img/newarrival/newarrival0026.jpg",
     "sizes": ["8US", "8.5US", "9US", "9.5US"]
     },
     {
@@ -240,6 +285,8 @@
     "price": 192.00,
     "image": "/img/newarrival/newarrival27.jpg",
     "hoverImage": "/img/newarrival/newarrival27hover.jpg",
+    "leftImage":"/img/newarrival/newarrival027.jpg",
+    "rightImage":"/img/newarrival/newarrival0027.jpg",
     "sizes": ["8US", "8.5US", "9US", "9.5US"]
     },
     {
@@ -249,6 +296,8 @@
     "price": 203.00,
     "image": "/img/newarrival/newarrival28.jpg",
     "hoverImage": "/img/newarrival/newarrival28hover.jpg",
+    "leftImage":"/img/newarrival/newarrival028.jpg",
+    "rightImage":"/img/newarrival/newarrival0028.jpg",
     "sizes": ["8US", "8.5US", "9US", "9.5US"]
     },
     {
@@ -258,6 +307,8 @@
     "price": 203.00,
     "image": "/img/newarrival/newarrival29.jpg",
     "hoverImage": "/img/newarrival/newarrival29hover.jpg",
+    "leftImage":"/img/newarrival/newarrival029.jpg",
+    "rightImage":"/img/newarrival/newarrival0029.jpg",
     "sizes": ["8US", "8.5US", "9US", "9.5US"]
     },
     {
@@ -267,6 +318,8 @@
     "price": 203.00,
     "image": "/img/newarrival/newarrival30.jpg",
     "hoverImage": "/img/newarrival/newarrival30hover.jpg",
+    "leftImage":"/img/newarrival/newarrival030.jpg",
+    "rightImage":"/img/newarrival/newarrival0030.jpg",
     "sizes": ["8US", "8.5US", "9US", "9.5US"]
     },
     {
@@ -276,6 +329,8 @@
     "price": 169.00,
     "image": "/img/newarrival/newarrival31.jpg",
     "hoverImage": "/img/newarrival/newarrival31hover.jpg",
+    "leftImage":"/img/newarrival/newarrival031.jpg",
+    "rightImage":"/img/newarrival/newarrival0031.jpg",
     "sizes": ["8US", "8.5US", "9US", "9.5US"]
     },
     {
@@ -285,6 +340,8 @@
     "price": 169.00,
     "image": "/img/newarrival/newarrival32.jpg",
     "hoverImage": "/img/newarrival/newarrival32hover.jpg",
+    "leftImage":"/img/newarrival/newarrival032.jpg",
+    "rightImage":"/img/newarrival/newarrival0032.jpg",
     "sizes": ["8US", "8.5US", "9US", "9.5US"]
     }
    
