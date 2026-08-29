@@ -33,7 +33,17 @@
     "leftImage":"/img/haven/haven03.jpg",
     "rightImage":"/img/haven/haven003.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
-    "category": "Outwear"
+    "category": "Outwear",
+    "colorVariants": [
+    {
+        "id": 3,
+        "image": "/img/newarrival/newarrival3.jpg"
+    },
+    {
+        "id": 4,
+        "image": "/img/newarrival/newarrival4.jpg"
+    }
+    ]
     },
     {
     "id": 4,
@@ -45,7 +55,17 @@
     "leftImage":"/img/haven/haven04.jpg",
     "rightImage":"/img/haven/haven004.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"      ],
-    "category": "Outwear"
+    "category": "Outwear",
+    "colorVariants": [
+    {
+        "id": 3,
+        "image": "/img/newarrival/newarrival3.jpg"
+    },
+    {
+        "id": 4,
+        "image": "/img/newarrival/newarrival4.jpg"
+    }
+    ]
     },
     {
     "id": 5,
@@ -57,7 +77,17 @@
     "leftImage":"/img/haven/haven05.jpg",
     "rightImage":"/img/haven/haven005.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
-    "category": "Bottoms"
+    "category": "Bottoms",
+    "colorVariants": [
+    {
+        "id": 5,
+        "image": "/img/newarrival/newarrival5.jpg"
+    },
+    {
+        "id": 6,
+        "image": "/img/newarrival/newarrival6.jpg"
+    }
+    ]
     },
     {
     "id": 6,
@@ -69,7 +99,17 @@
     "leftImage":"/img/haven/haven06.jpg",
     "rightImage":"/img/haven/haven006.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
-    "category": "Bottoms"
+    "category": "Bottoms",
+    "colorVariants": [
+    {
+        "id": 5,
+        "image": "/img/newarrival/newarrival5.jpg"
+    },
+    {
+        "id": 6,
+        "image": "/img/newarrival/newarrival6.jpg"
+    }
+    ]
     },
     {
     "id": 7,
@@ -105,7 +145,17 @@
     "leftImage":"/img/haven/haven09.jpg",
     "rightImage":"/img/haven/haven009.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
-    "category" : "T-Shirts"
+    "category" : "T-Shirts",
+    "colorVariants": [
+    {
+        "id": 9,
+        "image": "/img/newarrival/newarrival9.jpg"
+    },
+    {
+        "id": 10,
+        "image": "/img/newarrival/newarrival10.jpg"
+    }
+    ]
     },
     {
     "id": 10,
@@ -117,7 +167,17 @@
     "leftImage":"/img/haven/haven010.jpg",
     "rightImage":"/img/haven/haven0010.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
-    "category" : "T-Shirts"
+    "category" : "T-Shirts",
+    "colorVariants": [
+    {
+        "id": 9,
+        "image": "/img/newarrival/newarrival9.jpg"
+    },
+    {
+        "id": 10,
+        "image": "/img/newarrival/newarrival10.jpg"
+    }
+    ]
     },
     {
     "id": 11,
@@ -129,7 +189,21 @@
     "leftImage":"/img/haven/haven011.jpg",
     "rightImage":"/img/haven/haven0011.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
-    "category" :"Fleece & Sweats"
+    "category" :"Fleece & Sweats",
+    "colorVariants": [
+    {
+        "id": 11,
+        "image": "/img/newarrival/newarrival11.jpg"
+    },
+    {
+        "id": 12,
+        "image": "/img/newarrival/newarrival12.jpg"
+    },
+    {
+        "id": 13,
+        "image": "/img/newarrival/newarrival13.jpg"
+    }
+    ]
     },
     {
     "id": 12,
@@ -141,7 +215,21 @@
     "leftImage":"/img/haven/haven012.jpg",
     "rightImage":"/img/haven/haven0012.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
-    "category" :"Fleece & Sweats"
+    "category" :"Fleece & Sweats",
+    "colorVariants": [
+    {
+        "id": 11,
+        "image": "/img/newarrival/newarrival11.jpg"
+    },
+    {
+        "id": 12,
+        "image": "/img/newarrival/newarrival12.jpg"
+    },
+    {
+        "id": 13,
+        "image": "/img/newarrival/newarrival13.jpg"
+    }
+    ]
     },
     {
     "id": 13,
@@ -153,7 +241,21 @@
     "leftImage":"/img/haven/haven013.jpg",
     "rightImage":"/img/haven/haven0013.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
-    "category" :"Fleece & Sweats"
+    "category" :"Fleece & Sweats",
+    "colorVariants": [
+    {
+        "id": 11,
+        "image": "/img/newarrival/newarrival11.jpg"
+    },
+    {
+        "id": 12,
+        "image": "/img/newarrival/newarrival12.jpg"
+    },
+    {
+        "id": 13,
+        "image": "/img/newarrival/newarrival13.jpg"
+    }
+    ]
     },
     {
     "id": 14,
@@ -165,7 +267,17 @@
     "leftImage":"/img/haven/haven014.jpg",
     "rightImage":"/img/haven/haven0014.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
-    "category": "Outwear"
+    "category": "Outwear",
+    "colorVariants": [
+    {
+        "id": 14,
+        "image": "/img/newarrival/newarrival14.jpg"
+    },
+    {
+        "id": 15,
+        "image": "/img/newarrival/newarrival15.jpg"
+    }
+    ]
     },
     {
     "id":15,
@@ -177,7 +289,17 @@
     "leftImage":"/img/haven/haven015.jpg",
     "rightImage":"/img/haven/haven0015.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
-    "category": "Outwear"
+    "category": "Outwear",
+    "colorVariants": [
+    {
+        "id": 14,
+        "image": "/img/newarrival/newarrival14.jpg"
+    },
+    {
+        "id": 15,
+        "image": "/img/newarrival/newarrival15.jpg"
+    }
+    ]
     },
     {
     "id": 16,
@@ -189,7 +311,17 @@
     "leftImage":"/img/haven/haven016.jpg",
     "rightImage":"/img/haven/haven0016.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
-    "category": "Outwear"
+    "category": "Outwear",
+    "colorVariants": [
+    {
+        "id": 16,
+        "image": "/img/newarrival/newarrival16.jpg"
+    },
+    {
+        "id": 17,
+        "image": "/img/newarrival/newarrival17.jpg"
+    }
+    ]
     },
     {
     "id": 17,
@@ -201,7 +333,17 @@
     "leftImage":"/img/haven/haven017.jpg",
     "rightImage":"/img/haven/haven0017.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
-    "category": "Outwear"
+    "category": "Outwear",
+    "colorVariants": [
+    {
+        "id": 16,
+        "image": "/img/newarrival/newarrival16.jpg"
+    },
+    {
+        "id": 17,
+        "image": "/img/newarrival/newarrival17.jpg"
+    }
+    ]
     },
     {
     "id": 18,
@@ -225,7 +367,17 @@
     "leftImage":"/img/haven/haven019.jpg",
     "rightImage":"/img/haven/haven0019.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
-    "category": "Outwear"
+    "category": "Outwear",
+    "colorVariants": [
+    {
+        "id": 19,
+        "image": "/img/newarrival/newarrival19.jpg"
+    },
+    {
+        "id": 20,
+        "image": "/img/newarrival/newarrival20.jpg"
+    }
+    ]
     },
     {
     "id": 20,
@@ -237,7 +389,17 @@
     "leftImage":"/img/haven/haven020.jpg",
     "rightImage":"/img/haven/haven0020.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
-    "category": "Outwear"
+    "category": "Outwear",
+     "colorVariants": [
+    {
+        "id": 19,
+        "image": "/img/newarrival/newarrival19.jpg"
+    },
+    {
+        "id": 20,
+        "image": "/img/newarrival/newarrival20.jpg"
+    }
+    ]
     },
     {
     "id": 21,
@@ -249,7 +411,17 @@
     "leftImage":"/img/haven/haven021.jpg",
     "rightImage":"/img/haven/haven0021.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
-    "category": "Bottoms"
+    "category": "Bottoms",
+    "colorVariants": [
+    {
+        "id": 21,
+        "image": "/img/newarrival/newarrival21.jpg"
+    },
+    {
+        "id": 22,
+        "image": "/img/newarrival/newarrival22.jpg"
+    }
+    ]
     },
     {
     "id": 22,
@@ -261,7 +433,17 @@
     "leftImage":"/img/haven/haven022.jpg",
     "rightImage":"/img/haven/haven0022.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
-    "category": "Bottoms"
+    "category": "Bottoms",
+    "colorVariants": [
+    {
+        "id": 21,
+        "image": "/img/newarrival/newarrival21.jpg"
+    },
+    {
+        "id": 22,
+        "image": "/img/newarrival/newarrival22.jpg"
+    }
+    ]
     },
     {
     "id": 23,
@@ -273,7 +455,17 @@
     "leftImage":"/img/haven/haven023.jpg",
     "rightImage":"/img/haven/haven0023.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
-    "category": "Bottoms"
+    "category": "Bottoms",
+    "colorVariants": [
+    {
+        "id": 23,
+        "image": "/img/newarrival/newarrival23.jpg"
+    },
+    {
+        "id": 24,
+        "image": "/img/newarrival/newarrival24.jpg"
+    }
+    ]
     },
     {
     "id": 24,
@@ -285,7 +477,17 @@
     "leftImage":"/img/haven/haven024.jpg",
     "rightImage":"/img/haven/haven0024.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
-    "category": "Bottoms"
+    "category": "Bottoms",
+    "colorVariants": [
+    {
+        "id": 23,
+        "image": "/img/newarrival/newarrival23.jpg"
+    },
+    {
+        "id": 24,
+        "image": "/img/newarrival/newarrival24.jpg"
+    }
+    ]
     },
     {
     "id": 25,
@@ -309,7 +511,17 @@
     "leftImage":"/img/haven/haven026.jpg",
     "rightImage":"/img/haven/haven0026.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
-    "category" :"Fleece & Sweats"
+    "category" :"Fleece & Sweats",
+    "colorVariants": [
+    {
+        "id": 26,
+        "image": "/img/newarrival/newarrival26.jpg"
+    },
+    {
+        "id": 27,
+        "image": "/img/newarrival/newarrival27.jpg"
+    }
+    ]
     },
     {
     "id": 27,
@@ -321,7 +533,17 @@
     "leftImage":"/img/haven/haven027.jpg",
     "rightImage":"/img/haven/haven0027.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
-    "category" :"Fleece & Sweats"
+    "category" :"Fleece & Sweats",
+    "colorVariants": [
+    {
+        "id": 26,
+        "image": "/img/newarrival/newarrival26.jpg"
+    },
+    {
+        "id": 27,
+        "image": "/img/newarrival/newarrival27.jpg"
+    }
+    ]
     },
     {
     "id": 28,
@@ -369,7 +591,17 @@
     "leftImage":"/img/haven/haven031.jpg",
     "rightImage":"/img/haven/haven0031.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
-    "category": "Outwear"
+    "category": "Outwear",
+    "colorVariants": [
+    {
+        "id": 31,
+        "image": "/img/newarrival/newarrival31.jpg"
+    },
+    {
+        "id": 32,
+        "image": "/img/newarrival/newarrival32.jpg"
+    }
+    ]
     },
     
     {
@@ -382,7 +614,17 @@
     "leftImage":"/img/haven/haven032.jpg",
     "rightImage":"/img/haven/haven0032.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
-    "category": "Outwear"
+    "category": "Outwear",
+     "colorVariants": [
+    {
+        "id": 31,
+        "image": "/img/newarrival/newarrival31.jpg"
+    },
+    {
+        "id": 32,
+        "image": "/img/newarrival/newarrival32.jpg"
+    }
+    ]
     },
     {
     "id": 33,
@@ -394,7 +636,17 @@
     "leftImage":"/img/haven/haven033.jpg",
     "rightImage":"/img/haven/haven0033.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
-    "category": "Outwear"
+    "category": "Outwear",
+     "colorVariants": [
+    {
+        "id": 33,
+        "image": "/img/newarrival/newarrival33.jpg"
+    },
+    {
+        "id": 34,
+        "image": "/img/newarrival/newarrival34.jpg"
+    }
+    ]
     },
     {
     "id": 34,
@@ -406,7 +658,17 @@
     "leftImage":"/img/haven/haven034.jpg",
     "rightImage":"/img/haven/haven0034.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
-    "category": "Outwear"
+    "category": "Outwear",
+     "colorVariants": [
+    {
+        "id": 33,
+        "image": "/img/newarrival/newarrival33.jpg"
+    },
+    {
+        "id": 34,
+        "image": "/img/newarrival/newarrival34.jpg"
+    }
+    ]
     },
     {
     "id": 35,
@@ -442,7 +704,17 @@
     "leftImage":"/img/haven/haven037.jpg",
     "rightImage":"/img/haven/haven0037.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
-    "category" :"Fleece & Sweats"
+    "category" :"Fleece & Sweats",
+     "colorVariants": [
+    {
+        "id": 37,
+        "image": "/img/newarrival/newarrival37.jpg"
+    },
+    {
+        "id": 38,
+        "image": "/img/newarrival/newarrival38.jpg"
+    }
+    ]
     },
     {
     "id": 38,
@@ -454,7 +726,17 @@
     "leftImage":"/img/haven/haven038.jpg",
     "rightImage":"/img/haven/haven0038.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
-    "category" :"Fleece & Sweats"
+    "category" :"Fleece & Sweats",
+     "colorVariants": [
+    {
+        "id": 37,
+        "image": "/img/newarrival/newarrival37.jpg"
+    },
+    {
+        "id": 38,
+        "image": "/img/newarrival/newarrival38.jpg"
+    }
+    ]
     },
     {
     "id": 39,
@@ -466,7 +748,17 @@
     "leftImage":"/img/haven/haven039.jpg",
     "rightImage":"/img/haven/haven0039.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
-    "category" :"Fleece & Sweats"
+    "category" :"Fleece & Sweats",
+     "colorVariants": [
+    {
+        "id": 39,
+        "image": "/img/newarrival/newarrival39.jpg"
+    },
+    {
+        "id": 40,
+        "image": "/img/newarrival/newarrival40.jpg"
+    }
+    ]
     },
     {
     "id": 40,
@@ -478,7 +770,17 @@
     "leftImage":"/img/haven/haven040.jpg",
     "rightImage":"/img/haven/haven0040.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
-    "category" :"Fleece & Sweats"
+    "category" :"Fleece & Sweats",
+     "colorVariants": [
+    {
+        "id": 39,
+        "image": "/img/newarrival/newarrival39.jpg"
+    },
+    {
+        "id": 40,
+        "image": "/img/newarrival/newarrival40.jpg"
+    }
+    ]
     },
     {
     "id": 41,
@@ -488,7 +790,17 @@
     "image": "/img/haven/haven41.jpg",
     "hoverImage": "/img/haven/haven41hover.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
-    "category" :"Fleece & Sweats"
+    "category" :"Fleece & Sweats",
+     "colorVariants": [
+    {
+        "id": 41,
+        "image": "/img/newarrival/newarrival41.jpg"
+    },
+    {
+        "id": 42,
+        "image": "/img/newarrival/newarrival42.jpg"
+    }
+    ]
     },
     {
     "id": 42,
@@ -500,7 +812,17 @@
     "leftImage":"/img/haven/haven042.jpg",
     "rightImage":"/img/haven/haven0042.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
-    "category" :"Fleece & Sweats"
+    "category" :"Fleece & Sweats",
+    "colorVariants": [
+    {
+        "id": 41,
+        "image": "/img/newarrival/newarrival41.jpg"
+    },
+    {
+        "id": 42,
+        "image": "/img/newarrival/newarrival42.jpg"
+    }
+    ]
     },
     {
     "id": 43,
@@ -512,7 +834,17 @@
     "leftImage":"/img/haven/haven043.jpg",
     "rightImage":"/img/haven/haven0043.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
-    "category" : "T-Shirts"
+    "category" : "T-Shirts",
+    "colorVariants": [
+    {
+        "id": 43,
+        "image": "/img/newarrival/newarrival43.jpg"
+    },
+    {
+        "id": 44,
+        "image": "/img/newarrival/newarrival44.jpg"
+    }
+    ]
     },
     {
     "id": 44,
@@ -524,7 +856,17 @@
     "leftImage":"/img/haven/haven044.jpg",
     "rightImage":"/img/haven/haven0044.jpg",
     "sizes": ["01/S","02/M","03/L","04/XL"],
-    "category" : "T-Shirts"
+    "category" : "T-Shirts",
+    "colorVariants": [
+    {
+        "id": 43,
+        "image": "/img/newarrival/newarrival43.jpg"
+    },
+    {
+        "id": 44,
+        "image": "/img/newarrival/newarrival44.jpg"
+    }
+    ]
     },
     {
     "id": 45,
@@ -536,7 +878,17 @@
     "leftImage":"/img/haven/haven045.jpg",
     "rightImage":"/img/haven/haven0045.jpg",
     "sizes": ["ONE SIZE"],
-    "category": "Accessories"
+    "category": "Accessories",
+    "colorVariants": [
+    {
+        "id": 45,
+        "image": "/img/newarrival/newarrival45.jpg"
+    },
+    {
+        "id": 46,
+        "image": "/img/newarrival/newarrival46.jpg"
+    }
+    ]
     },
     {
     "id": 46,
@@ -548,7 +900,17 @@
     "leftImage":"/img/haven/haven046.jpg",
     "rightImage":"/img/haven/haven0046.jpg",
     "sizes": ["ONE SIZE"],
-    "category": "Accessories"
+    "category": "Accessories",
+    "colorVariants": [
+    {
+        "id": 45,
+        "image": "/img/newarrival/newarrival45.jpg"
+    },
+    {
+        "id": 46,
+        "image": "/img/newarrival/newarrival46.jpg"
+    }
+    ]
     },
     {
     "id": 47,
@@ -558,7 +920,17 @@
     "image": "/img/haven/haven47.jpg",
     "hoverImage": "/img/haven/haven47hover.jpg",
     "sizes": ["ONE SIZE"],
-    "category": "Accessories"
+    "category": "Accessories",
+    "colorVariants": [
+    {
+        "id": 47,
+        "image": "/img/newarrival/newarrival47.jpg"
+    },
+    {
+        "id": 48,
+        "image": "/img/newarrival/newarrival48.jpg"
+    }
+    ]
     },
     {
     "id": 48,
@@ -568,7 +940,17 @@
     "image": "/img/haven/haven48.jpg",
     "hoverImage": "/img/haven/haven48hover.jpg",
     "sizes": ["ONE SIZE"],
-    "category": "Accessories"
+    "category": "Accessories",
+    "colorVariants": [
+    {
+        "id": 47,
+        "image": "/img/newarrival/newarrival47.jpg"
+    },
+    {
+        "id": 48,
+        "image": "/img/newarrival/newarrival48.jpg"
+    }
+    ]
     }
     
     
