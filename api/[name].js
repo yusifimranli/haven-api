@@ -29,6 +29,7 @@ export default function handler(req, res) {
   if (name === "features") {
     return res.status(200).json(features);
   }
+
   if (name === "news") {
     return res.status(200).json(news);
   }
