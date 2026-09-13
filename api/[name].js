@@ -1,20 +1,10 @@
-import { createRequire } from "module";
-
-const require = createRequire(import.meta.url);
-
-const newArrivals = require("./data/newArrivals.json");
-const haven = require("./data/haven.json");
-const features = require("./data/features.json");
-const news = require("./data/news.json");
+import newArrivals from "./data/newArrivals.json";
+import haven from "./data/haven.json";
+import features from "./data/features.json";
+import news from "./data/news.json";
 
 export default function handler(req, res) {
   res.setHeader("Access-Control-Allow-Origin", "*");
-  res.setHeader("Access-Control-Allow-Methods", "GET, OPTIONS");
-  res.setHeader("Access-Control-Allow-Headers", "Content-Type");
-
-  if (req.method === "OPTIONS") {
-    return res.status(200).end();
-  }
 
   const { name } = req.query;
 
